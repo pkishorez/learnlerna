@@ -10,11 +10,14 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "lib"
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "29e6e924ba9a0914e1c431e1d38b2510f545a3fc"
+  "gitHead": "27b078ed7e27b62aa260869cb81332c023f9a2a8"
 }

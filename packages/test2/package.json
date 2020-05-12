@@ -1,6 +1,6 @@
 {
   "name": "@kishorez/test2",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -16,6 +16,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@kishorez/test1": "^0.0.4"
+    "@kishorez/test1": "^0.0.5"
   }
 }

@@ -14,5 +14,8 @@
   ],
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@kishorez/test1": "^0.0.4"
+  }
 }
